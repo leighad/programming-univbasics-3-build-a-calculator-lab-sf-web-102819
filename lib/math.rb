@@ -9,7 +9,7 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  result = num1 / num2
+  result = num1 sqrt(num2)
   puts result
 end
 
